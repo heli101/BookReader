@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bookreader2</string>
+    <string name="scan">Scan</string>
+    <string name="thumb">Book Thumbnail</string>
+    <string name="pre">Preview</string>
+    <string name="link">Web</string>
+    <string name="SIGNIN">SIGNIN</string>
+    <string name="SIGNUP">SIGNUP</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
